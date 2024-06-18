@@ -11,7 +11,7 @@ To get started with this project, follow these steps:
 
 ### Prerequisites
 
-Python 3.9 installed on your machine
+Python 3.7+ installed on your machine
 
 BeautifulSoup library for Python
 
